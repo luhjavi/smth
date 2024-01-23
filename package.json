@@ -1,0 +1,17 @@
+{
+  "name": "dbsc",
+  "version": "1.0.0",
+  "description": "practicing slash commands on discordjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luhjavi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0"
+  }
+}
