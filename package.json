@@ -2,7 +2,7 @@
   "name": "dbsc",
   "version": "1.0.0",
   "description": "practicing slash commands on discordjs",
-  "main": "index.js",
+  "main": "handlers.login.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
